@@ -1,4 +1,5 @@
-# Semana 5 - Exercício 1 - Busca binária
+# Semana 5 - Exercício 1 - Busca binária -
+# algoritmos de busca
 
 def busca(lista, elemento):
 	primeiro = 0

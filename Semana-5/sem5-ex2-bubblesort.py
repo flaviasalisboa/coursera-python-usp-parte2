@@ -1,4 +1,5 @@
-# Semana 5 - Exercício 2 - Bubble sort (ordenação)
+# Semana 5 - Exercício 2 - Bubble sort -
+# algoritmo de ordenação
 
 def bubble_sort(lista):
 	fim = len(lista)
