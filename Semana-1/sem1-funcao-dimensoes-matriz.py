@@ -1,3 +1,5 @@
+# Semana 1 - Exercício 1 - Apresenta as dimensões de uma matriz
+
 def dimensoes(matriz):
 	numRows = len(matriz)
 	numCols = len(matriz[0])

@@ -1,3 +1,5 @@
+# Semana 2 - Exercício 2 - Soma duas matrizes de mesma dimensão
+
 def soma_matrizes(m1, m2):
 	matrizSoma = []
 	numRows = len(m1) 
