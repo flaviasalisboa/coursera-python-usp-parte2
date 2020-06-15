@@ -1,3 +1,5 @@
+# Semana 3 - Exercícios 1 e 2 - Classe triângulo e
+# métodos sobre triângulo
 
 class Triangulo:
 	def __init__(self, a, b, c):
