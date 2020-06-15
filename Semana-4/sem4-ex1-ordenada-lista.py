@@ -1,3 +1,6 @@
+# Semana 4 - Exercício 1 - Ordenação de listas
+# por seleção direta
+
 def selecao_direta(lista):
 	fim = len(lista)
 	for i in range(fim-1):

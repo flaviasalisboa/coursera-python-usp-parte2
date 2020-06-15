@@ -1,3 +1,5 @@
+# Semana 4 - Exercício 2 - Busca sequencial
+
 def busca(lista, elemento):
 	for i in range(len(lista)):
 		if lista[i] == elemento:
