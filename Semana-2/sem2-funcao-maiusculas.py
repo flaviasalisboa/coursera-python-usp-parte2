@@ -1,3 +1,6 @@
+# Semana 2 - Exercício 1 - Retorna apenas as letras maiúsculas
+# encontradas em uma string
+
 def maiusculas(frase):
 	strFim = ''
 	for i in frase:

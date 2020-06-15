@@ -1,3 +1,6 @@
+# Semana 2 - Exercício 2 - Retorna a menor string
+# de uma lista de strings
+
 def menor_nome(listaNomes):
 	listaTemp = []
 	for i in listaNomes:
