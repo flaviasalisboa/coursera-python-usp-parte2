@@ -1,3 +1,6 @@
+# Semana 6 - Exercício 1 - Soma dos números de uma lista
+# com recursão
+
 def soma_lista(lista):
 	n = len(lista)
 	if n < 2:

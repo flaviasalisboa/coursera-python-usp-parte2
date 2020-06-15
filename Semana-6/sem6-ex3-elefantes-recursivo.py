@@ -1,3 +1,6 @@
+# Semana 6 - Exercício 3 - Programa Elefantes
+# utilizando recursão
+
 def incomodam(n):
 	if n <= 0:
 		return ""
